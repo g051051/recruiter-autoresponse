@@ -8,20 +8,17 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## the autoresponse
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
+Thanks for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a senior software engineer with decades of experience, I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn.  Having in-demand skills is a great position to be in!
 
-It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.  While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
+I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for.  Is this really a role suitable for an industry veteran with 30+ years of experience?  Note that at this stage of my career, I'm not willing to submit myself to the ridiculous practices that seem to be the used in hiring nowadays.  I.E. I won't take any standardized tests, waste my time solving silly "leetcode" type puzzles, do take-home assignments, etc.
 
-Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
+I am only considering full-time permanent remote work, so no contract, temp-to-perm, or requirements to ever come into an office.
 
-While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
+Can you send along the company name, a job description, and total compensation details for the role you're reaching out in reference to?  In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
 
-In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-Thanks again for reaching out!
- 
-I look forward to hearing from you.
+Thanks again for reaching out, and I look forward to hearing from you.
 
-Alex
+Dan
 ```
