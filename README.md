@@ -17,8 +17,4 @@ I would love to continue the conversation, but before I do, I'd like to set expe
 I am only considering full-time permanent remote work, so no contract, temp-to-perm, or requirements to ever come into an office.
 
 If you still want to talk, please send along the company name, a job description, and total compensation details for the role you're reaching out in reference to.  In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-
-Thanks again for reaching out, and I look forward to hearing from you.
-
-Dan
 ```
