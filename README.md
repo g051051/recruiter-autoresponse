@@ -12,7 +12,7 @@ Thanks for reaching out. I'm always interested in hearing about what new and exc
 
 It does however mean that I don't have the time to engage with everyone who contacts me. A lot of the time, incoming messages represent a very poor fit indeed.  While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
 
-I would love to continue the conversation, but before I do, I'd like to set expectations around the level of seniority that you're looking for.  Is this really a role suitable for an industry veteran with 30+ years of experience?  Note that at this stage of my career, I'm not willing to submit myself to the ridiculous practices that seem to be the used in hiring nowadays.  I.E. I won't take any standardized tests, waste my time solving silly "leetcode" type puzzles, do take-home assignments, etc.  In addition, I won't work for a company that uses "Agile", Scrum, pair programming, or "DevOps".
+I'd like to set expectations around the level of seniority that you're looking for.  Is this really a role suitable for an industry veteran with 30+ years of experience?  Note that at this stage of my career, I'm not willing to submit myself to the ridiculous practices that seem to be the used in hiring nowadays.  I.E. I won't take any standardized tests, waste my time solving silly "leetcode" type puzzles, do take-home assignments, etc.  In addition, I won't work for a company that uses "Agile", Scrum, pair programming, or "DevOps".
 
 I am only considering full-time permanent remote work, so no contract, temp-to-perm, or requirements to ever come into an office.
 
